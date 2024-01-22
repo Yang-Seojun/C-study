@@ -1,0 +1,3 @@
+﻿  나무 높이 측정.c
+C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\chapter 8\chapter 8\나무 높이 측정.c(26,24): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  chapter 8.vcxproj -> C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\chapter 8\x64\Debug\chapter 8.exe

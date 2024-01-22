@@ -1,0 +1,5 @@
+﻿  do..while 문제 2.c
+C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\while문 과제\while문 과제\do..while 문제 2.c(7,18): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\while문 과제\while문 과제\do..while 문제 2.c(11,7): warning C4013: 'ranad'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+do..while 문제 2.obj : error LNK2019: ranadmain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\while문 과제\x64\Debug\while문 과제.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

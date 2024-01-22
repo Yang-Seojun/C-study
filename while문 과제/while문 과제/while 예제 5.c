@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main()
+{
+	int i = 1, n, sum = 0;
+
+	while (i <= 5)
+	{
+		printf("값을 입력하시오 : ");
+		scanf_s("%d", &n);
+		sum += n;
+		i++;
+	}
+
+	printf("합계는 %d입니다.\n", sum);
+
+	return 0;
+
+}

@@ -1,0 +1,17 @@
+﻿  변수의 주소.c
+C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\chapter 11\chapter 11\변수의 주소.c(9,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\chapter 11\chapter 11\변수의 주소.c(9,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\chapter 11\chapter 11\변수의 주소.c(10,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\chapter 11\chapter 11\변수의 주소.c(10,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\chapter 11\chapter 11\변수의 주소.c(12,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\chapter 11\chapter 11\변수의 주소.c(12,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) char *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\chapter 11\chapter 11\변수의 주소.c(13,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\chapter 11\chapter 11\변수의 주소.c(13,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) char *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\chapter 11\chapter 11\변수의 주소.c(14,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\chapter 11\chapter 11\변수의 주소.c(14,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) char *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\chapter 11\chapter 11\변수의 주소.c(16,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'float *'입니다.
+C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\chapter 11\chapter 11\변수의 주소.c(16,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) float *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\chapter 11\chapter 11\변수의 주소.c(17,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'float *'입니다.
+C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\chapter 11\chapter 11\변수의 주소.c(17,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) float *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\chapter 11\chapter 11\변수의 주소.c(7,8): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  chapter 11.vcxproj -> C:\Users\양성욱\Desktop\동국대학교\1학년 2학기\컴퓨터프로그래밍\chapter 11\x64\Debug\chapter 11.exe
